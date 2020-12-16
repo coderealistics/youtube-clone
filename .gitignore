@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+.idea/
+.eslintcache/
+.firebase/
+.firebaserc/
 
 # testing
 /coverage
